@@ -16,7 +16,7 @@ namespace StayShut
         public override string Name => "StayShut";
         public override string Author => "Thunder";
         public override PluginType Type => PluginType.GameplayMod;
-        public override Version Version => new Version(0, 0, 0);
+        public override Version Version => new Version(1, 0, 0);
 
         public static readonly DoorType[] ValidDoors = new[]
         {
